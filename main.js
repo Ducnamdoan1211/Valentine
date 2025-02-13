@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent = "Chúc Duyên Valentine vui vẻ, mãi xinh đẹp, học giỏi đạt được điểm số cao, luôn hạnh phúc, vui vẻ bên gia đình và người mình thương nhéeeeeee."
+var letterContent = "ghi gì đó đi."
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
